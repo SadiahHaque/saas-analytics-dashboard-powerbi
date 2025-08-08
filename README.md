@@ -68,9 +68,8 @@ Focus on actionable KPIs commonly tracked by SaaS companies.
 
 | Tool       | Purpose                     |
 |------------|-----------------------------|
-| Power BI   | Data modeling, dashboarding |
+| Power BI   | Data modelling & transformation, dashboarding |
 | DAX        | KPIs, measures, calculations|
-| Excel/CSV  | Data simulation and cleanup |
 
 ---
 
