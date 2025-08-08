@@ -76,9 +76,8 @@ Focus on actionable KPIs commonly tracked by SaaS companies.
 
 ## Preview
 
-![Dashboard Preview 1](screenshots/overview.png)  
-![Dashboard Preview 2](screenshots/churn.png)  
-*(Add images or GIFs in a `/screenshots` folder)*
+![Dashboard Preview 1](screenshots/Overview.png)  
+![Dashboard Preview 2](screenshots/Churn.png)  
 
 
 ---
